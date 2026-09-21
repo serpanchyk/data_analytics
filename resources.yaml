@@ -1,0 +1,730 @@
+resources:
+- id: website-c93f96baebe4d905
+  type: website
+  course: data-analytics
+  title: Інтелектуальний аналіз та візуалізація даних
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/course/view.php?id=19365
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:course:19365
+    source_record_id: vns:course:19365
+  file: {}
+- id: website-019c4140bf49bad3
+  type: website
+  course: data-analytics
+  title: Оголошення  Форум
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/forum/view.php?id=933391
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:933391
+    source_record_id: vns:module:933391
+  file: {}
+- id: website-e39774ed4bb8a640
+  type: website
+  course: data-analytics
+  title: Робоча програма  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=939092
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:939092
+    source_record_id: vns:module:939092
+  file: {}
+- id: website-047ccc09ff566afa
+  type: website
+  course: data-analytics
+  title: Інформація про автора курсу  URL (веб-посилання)
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/url/view.php?id=939114
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:939114
+    source_record_id: vns:module:939114
+  file: {}
+- id: website-74000d0e8f79f022
+  type: website
+  course: data-analytics
+  title: Лабараторні роботи  URL (веб-посилання)
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/url/view.php?id=942289
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:942289
+    source_record_id: vns:module:942289
+  file: {}
+- id: website-23c3b86a7863ec7a
+  type: website
+  course: data-analytics
+  title: Методичні вказівки. Лабораторна №1  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039642
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039642
+    source_record_id: vns:module:1039642
+  file: {}
+- id: website-16abe2061e694d46
+  type: website
+  course: data-analytics
+  title: Дані до лабораторної роботи №1  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1035424
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1035424
+    source_record_id: vns:module:1035424
+  file: {}
+- id: website-97f915b650e45ae5
+  type: website
+  course: data-analytics
+  title: Завдання до лабораторної роботи №1  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1035425
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1035425
+    source_record_id: vns:module:1035425
+  file: {}
+- id: website-3f31905dae0a5fa3
+  type: website
+  course: data-analytics
+  title: Звіт до лабораторної роботи №1  Завдання
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/assign/view.php?id=1035422
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1035422
+    source_record_id: vns:module:1035422
+  file: {}
+- id: website-71187724e3ffd797
+  type: website
+  course: data-analytics
+  title: Посилання на репозиторій Лаб. №1  Завдання
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/assign/view.php?id=1036771
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1036771
+    source_record_id: vns:module:1036771
+  file: {}
+- id: website-d6652138c8d9ee46
+  type: website
+  course: data-analytics
+  title: Методичні вказівки. Лабораторна робота №2  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039653
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039653
+    source_record_id: vns:module:1039653
+  file: {}
+- id: website-96504dd21dc12bea
+  type: website
+  course: data-analytics
+  title: Завдання до лабораторної роботи №2
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/assign/view.php?id=1039654
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039654
+    source_record_id: vns:module:1039654
+  file: {}
+- id: website-3c6374925474916b
+  type: website
+  course: data-analytics
+  title: Звіт до лабораторної роботи №2  Завдання
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/assign/view.php?id=1039656
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039656
+    source_record_id: vns:module:1039656
+  file: {}
+- id: website-190fa2f9b10b385d
+  type: website
+  course: data-analytics
+  title: Посилання на репозиторій Лаб. №2  Завдання
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/assign/view.php?id=1039659
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039659
+    source_record_id: vns:module:1039659
+  file: {}
+- id: website-c3fc3a0ad5c96bfa
+  type: website
+  course: data-analytics
+  title: Презентація №2. Оптимізаційні задачі та аналіз чутливості  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039663
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039663
+    source_record_id: vns:module:1039663
+  file: {}
+- id: website-8a0c0d0a50db134f
+  type: website
+  course: data-analytics
+  title: Лекція №2. Демонcтрація в Python  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039664
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039664
+    source_record_id: vns:module:1039664
+  file: {}
+- id: website-746abd602eee5520
+  type: website
+  course: data-analytics
+  title: Retail.xlsx  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039665
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039665
+    source_record_id: vns:module:1039665
+  file: {}
+- id: website-c945433ae2f668a0
+  type: website
+  course: data-analytics
+  title: Стільці.xlsx  Файл
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/resource/view.php?id=1039666
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039666
+    source_record_id: vns:module:1039666
+  file: {}
+- id: website-9f76826296b712a9
+  type: website
+  course: data-analytics
+  title: Запис лекції №2. 11.09.2026  URL (веб-посилання)
+  description: Зовнішній матеріал курсу; відкрийте його, коли потрібні пов’язані інструкції
+    чи матеріали.
+  url: https://vns.lpnu.ua/mod/url/view.php?id=1039667
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039667
+    source_record_id: vns:module:1039667
+  file: {}
+- id: google-sheet-1YhDG42PoZ0PWQj8Z8M7UOo41PFqCJYn4ZYri69TKmcw
+  type: google_sheet
+  course: data-analytics
+  title: Google spreadsheet
+  description: 'Жива Google таблиця: використовується для актуальних даних і має перечитуватися
+    перед використанням.'
+  url: https://docs.google.com/spreadsheets/d/1YhDG42PoZ0PWQj8Z8M7UOo41PFqCJYn4ZYri69TKmcw/edit?usp=sharing
+  locator:
+    drive_file_id: 1YhDG42PoZ0PWQj8Z8M7UOo41PFqCJYn4ZYri69TKmcw
+    spreadsheet_id: 1YhDG42PoZ0PWQj8Z8M7UOo41PFqCJYn4ZYri69TKmcw
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: before_use
+  discovered_from:
+  - type: whatsapp
+    resource_id: whatsapp:120363412144820520@g.us:3B1995FC1C9F21333DEB
+    source_record_id: whatsapp:120363412144820520@g.us:3B1995FC1C9F21333DEB
+  - type: telegram
+    resource_id: telegram:-1004423229735:451
+    source_record_id: telegram:-1004423229735:451
+  file: {}
+- id: file-bd8a0f78ec075be8
+  type: file
+  course: data-analytics
+  title: 20171129_FINAL_FINAL.xlsx
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: whatsapp
+    resource_id: whatsapp:120363412144820520@g.us:3BC41560CA55ED2786F8
+    source_record_id: whatsapp:120363412144820520@g.us:3BC41560CA55ED2786F8
+  role: other
+  source:
+    type: whatsapp
+    resource_id: whatsapp:120363412144820520@g.us:3BC41560CA55ED2786F8
+    url: null
+  file:
+    name: 20171129_FINAL_FINAL.xlsx
+    mime_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+    size: 1019190
+- id: file-210a1d4051ae20a7
+  type: file
+  course: data-analytics
+  title: ЛР1_завдання_студенту.ipynb
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: whatsapp
+    resource_id: whatsapp:120363412144820520@g.us:3BD8FE9BC7D814941092
+    source_record_id: whatsapp:120363412144820520@g.us:3BD8FE9BC7D814941092
+  role: assignment
+  source:
+    type: whatsapp
+    resource_id: whatsapp:120363412144820520@g.us:3BD8FE9BC7D814941092
+    url: null
+  file:
+    name: ЛР1_завдання_студенту.ipynb
+    mime_type: application/octet-stream
+    size: 57417
+- id: file-0f613c23f1f6717b
+  type: file
+  course: data-analytics
+  title: Робоча програма  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:939092
+    source_record_id: vns:module:939092
+  role: other
+  source:
+    type: vns
+    resource_id: vns:module:939092
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=939092
+  file:
+    name: Робоча програма  Файл
+    mime_type: null
+    size: null
+- id: file-cc634c4cea6defe7
+  type: file
+  course: data-analytics
+  title: Методичні вказівки. Лабораторна №1  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039642
+    source_record_id: vns:module:1039642
+  role: methodology
+  source:
+    type: vns
+    resource_id: vns:module:1039642
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039642
+  file:
+    name: Методичні вказівки. Лабораторна №1  Файл
+    mime_type: null
+    size: null
+- id: file-7144085aee6eb981
+  type: file
+  course: data-analytics
+  title: Дані до лабораторної роботи №1  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1035424
+    source_record_id: vns:module:1035424
+  role: other
+  source:
+    type: vns
+    resource_id: vns:module:1035424
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1035424
+  file:
+    name: Дані до лабораторної роботи №1  Файл
+    mime_type: null
+    size: null
+- id: file-40f2156215962c67
+  type: file
+  course: data-analytics
+  title: Завдання до лабораторної роботи №1  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1035425
+    source_record_id: vns:module:1035425
+  role: assignment
+  source:
+    type: vns
+    resource_id: vns:module:1035425
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1035425
+  file:
+    name: Завдання до лабораторної роботи №1  Файл
+    mime_type: null
+    size: null
+- id: file-ae0d026881554234
+  type: file
+  course: data-analytics
+  title: Методичні вказівки. Лабораторна робота №2  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039653
+    source_record_id: vns:module:1039653
+  role: methodology
+  source:
+    type: vns
+    resource_id: vns:module:1039653
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039653
+  file:
+    name: Методичні вказівки. Лабораторна робота №2  Файл
+    mime_type: null
+    size: null
+- id: file-64f6a72dbbe067e4
+  type: file
+  course: data-analytics
+  title: Презентація №2. Оптимізаційні задачі та аналіз чутливості  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039663
+    source_record_id: vns:module:1039663
+  role: slides
+  source:
+    type: vns
+    resource_id: vns:module:1039663
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039663
+  file:
+    name: Презентація №2. Оптимізаційні задачі та аналіз чутливості  Файл
+    mime_type: null
+    size: null
+- id: file-ecebf27f9863bacf
+  type: file
+  course: data-analytics
+  title: Лекція №2. Демонcтрація в Python  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039664
+    source_record_id: vns:module:1039664
+  role: lecture
+  source:
+    type: vns
+    resource_id: vns:module:1039664
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039664
+  file:
+    name: Лекція №2. Демонcтрація в Python  Файл
+    mime_type: null
+    size: null
+- id: file-9be0e9249ca97463
+  type: file
+  course: data-analytics
+  title: Retail.xlsx  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039665
+    source_record_id: vns:module:1039665
+  role: other
+  source:
+    type: vns
+    resource_id: vns:module:1039665
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039665
+  file:
+    name: Retail.xlsx  Файл
+    mime_type: null
+    size: null
+- id: file-cb7741ba6e63b99f
+  type: file
+  course: data-analytics
+  title: Стільці.xlsx  Файл
+  description: Оригінальний файл курсу, доступний для завантаження та використання
+    у навчальній роботі.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039666
+    source_record_id: vns:module:1039666
+  role: other
+  source:
+    type: vns
+    resource_id: vns:module:1039666
+    url: https://vns.lpnu.ua/mod/resource/view.php?id=1039666
+  file:
+    name: Стільці.xlsx  Файл
+    mime_type: null
+    size: null
+- id: file-4b35aa7450e3b773
+  type: file
+  course: data-analytics
+  title: ЛР2_завдання_студенту.ipynb
+  description: Оригінальний ноутбук-завдання, вкладений у VNS-завдання ЛР2.
+  locator: {}
+  capabilities:
+    read: true
+    write: false
+    insert_text: false
+    replace_text: false
+  freshness:
+    policy: cached_ok
+  discovered_from:
+  - type: vns
+    resource_id: vns:module:1039654
+    source_record_id: vns:module:1039654
+  role: assignment
+  source:
+    type: vns
+    resource_id: vns:module:1039654
+    url: https://vns.lpnu.ua/pluginfile.php?forcedownload=1&file=%2F6440069%2Fmod_assign%2Fintroattachment%2F0%2F%D0%9B%D0%A02_%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%83.ipynb
+  file:
+    name: ЛР2_завдання_студенту.ipynb
+    mime_type: application/x-ipynb+json
+    size: 48728
+    sha256: e49b0147fb60571c0508897bf854dcaa5a4d16715e925cb942c78ef81ce400c9
