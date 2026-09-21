@@ -7,6 +7,9 @@ __pycache__/
 # Jupyter runtime state; notebooks themselves are source files and must be tracked.
 .ipynb_checkpoints/
 
+# Personal preparation notes; these are not coursework deliverables.
+1st lab/Notes.md
+
 # IDE and editor state
 .idea/
 *.iml
