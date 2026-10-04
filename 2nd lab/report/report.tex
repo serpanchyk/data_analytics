@@ -1,0 +1,42 @@
+\documentclass[14pt,a4paper]{extarticle}
+\usepackage[left=2.25cm,right=1.25cm,top=1.8cm,bottom=1.3cm]{geometry}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\setmainlanguage{ukrainian}
+\IfFontExistsTF{Liberation Serif}{\setmainfont{Liberation Serif}\newfontfamily\cyrillicfont{Liberation Serif}}{\setmainfont{Noto Serif}\newfontfamily\cyrillicfont{Noto Serif}}
+\IfFontExistsTF{DejaVu Sans Mono}{\setmonofont{DejaVu Sans Mono}\newfontfamily\cyrillicfonttt{DejaVu Sans Mono}}{\setmonofont{Noto Sans Mono}\newfontfamily\cyrillicfonttt{Noto Sans Mono}}
+\newcommand{\university}{МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ «ЛЬВІВСЬКА ПОЛІТЕХНІКА»}
+\newcommand{\institute}{ІКНІ}
+\newcommand{\department}{СШІ}
+\newcommand{\labnumber}{2}
+\newcommand{\discipline}{Інтелектуальний аналіз та візуалізація даних}
+\newcommand{\labtopic}{Оптимізаційна задача та аналіз чутливості}
+\newcommand{\studentgroup}{ШІ-32}
+\newcommand{\studentname}{Михальчук Антон Євгенійович}
+\newcommand{\reviewerposition}{асистентка кафедри СШІ}
+\newcommand{\reviewername}{Торська Роксана Володимирівна}
+\newcommand{\reportyear}{2026}
+\newcommand{\reportcity}{Львів}
+\newcommand{\makelptitlepage}{%
+  \begin{titlepage}\thispagestyle{empty}
+    \begin{center}\textbf{\university}\end{center}
+    \vspace{0.6cm}
+    \begin{flushright}Інститут \textbf{\institute}\\Кафедра \textbf{\department}\end{flushright}
+    \vspace{1.1cm}
+    \begin{center}
+      \includegraphics[height=3.0cm]{images/lviv-polytechnic-logo.png}\\[0.45cm]
+      {\Large\textbf{ЗВІТ}}\\до лабораторної роботи № \labnumber\\[0.9cm]
+      \textbf{з дисципліни:} «\discipline»\\\textbf{на тему:} «\labtopic»\end{center}
+    \vspace{2.0cm}
+    \begin{flushright}Виконав:\\ст. гр. \studentgroup\\\studentname\\[0.6cm]
+      Прийняла:\\\reviewerposition\\\reviewername\end{flushright}
+    \vfill
+    \begin{center}\reportcity{} — \reportyear\end{center}
+  \end{titlepage}}
+\begin{document}
+\makelptitlepage
+\end{document}
