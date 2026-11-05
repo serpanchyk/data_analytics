@@ -21,3 +21,6 @@ __pycache__/
 
 # LaTeX build output
 **/report/out/
+
+# Personal learning workspace (/teach); not a coursework deliverable.
+teach/
