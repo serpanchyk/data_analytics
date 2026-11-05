@@ -26,4 +26,4 @@ __pycache__/
 teach/
 
 # osmnx HTTP cache (raw Overpass responses); the parquet snapshot is tracked instead.
-osm_*/cache/
+**/osm_*/cache/
