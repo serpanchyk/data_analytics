@@ -24,3 +24,6 @@ __pycache__/
 
 # Personal learning workspace (/teach); not a coursework deliverable.
 teach/
+
+# osmnx HTTP cache (raw Overpass responses); the parquet snapshot is tracked instead.
+osm_*/cache/
